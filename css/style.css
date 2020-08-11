@@ -1,0 +1,22 @@
+/* === Base styles === */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* === Base styles end === */
